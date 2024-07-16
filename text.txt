@@ -25,7 +25,7 @@ app.use(
 
 // // Connect to MongoDB
 // const mongoURI =
-//   "mongodb+srv://mohamedarief0110:RcHPfQiA4jTLKL8o@cluster0.cqfx8os.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+//   "mongodb+srv://<email>:<password>.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 // mongoose
 //   .connect(mongoURI, {
 //     serverSelectionTimeoutMS: 30000, // Increase to 30 seconds
